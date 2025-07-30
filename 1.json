@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "serena": {
+      "command": "C:\\Users\\jing\\.local\\bin\\uv.exe",
+      "args": [
+        "run",
+        "--directory",
+        "F:\\AIWorkSpace\\McpTools\\serena",
+        "serena-mcp-server"
+      ]
+    }
+  }
+}
